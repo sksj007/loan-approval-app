@@ -1,0 +1,6 @@
+pandas>=1.0
+sciklit-learn>=1.0
+streamlit>=1.0
+shap>=0.40
+numpy>=1.0
+RandomForestClassifer
